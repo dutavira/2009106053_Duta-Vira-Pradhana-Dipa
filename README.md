@@ -1,2 +1,2 @@
-# 2009106053_Duta-Vira-Pradhana-Dipa
+# Mobile_2009106053_Duta-Vira-Pradhana-Dipa
 Sebagai tempat pengumpulan posttest praktikum Pemrograman Mobile
